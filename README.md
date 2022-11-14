@@ -1,7 +1,7 @@
-# Project_5
+# Project_5 
 
-Ce cinquième projet du parcours Développeur Frontend de OpenClassrooms repose sur la mise en place d'une application web de e-commerce.
-Le site permettera la vente et la personnalisation de caméras par l'intermédiaire de l'application.
+Apprentissage du JS en front par Ce la mise en place d'une application web de e-commerce.
+Le site permettera la vente et la personnalisation de canapés
 
 Le projet repose sur les axes suivants :
 

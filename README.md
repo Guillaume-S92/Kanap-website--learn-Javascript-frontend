@@ -1,5 +1,7 @@
 # Project_5 
 
+![](kanap.png)
+
 Apprentissage du JS en front par la mise en place d'une application web de e-commerce.
 Le site permettera la vente et la personnalisation de canapés
 
